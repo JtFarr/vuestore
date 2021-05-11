@@ -1,0 +1,60 @@
+{
+"brands":   [
+  {
+    "name": "Spilltech",
+    "pic": "spilltech_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Smiths Detection",
+    "pic": "smiths_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Sensit Technologies",
+    "pic": "sensit_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Rigaku",
+    "pic": "rigaku_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "RAE systems",
+    "pic": "rae_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Kappler",
+    "pic": "kappler_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Haix",
+    "pic": "haix_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Flir",
+    "pic": "flir_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "Dräger",
+    "pic": "drager_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "BioCheck",
+    "pic": "biocheck_logo_sl.svg",
+    "dest": ""
+  },
+  {
+    "name": "908 Devices",
+    "pic": "908_logo_sl.svg",
+    "dest": ""
+  }
+]
+
+}

@@ -1,0 +1,53 @@
+{
+    "services": [
+      {
+        "image": "training.svg",
+        "title": "Training Courses1",
+        "text": "The types of equipment and products we distribute have grown; our commitment to quality, excellence, and customer service are stronger than ever.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "servpro.svg",
+        "title": "Service Programs",
+        "text": "High-quality equipment, supplies, training, and 24/7 support with knowledgeable staff who, in some instances, have been in the fire industry for years themselves.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "repair.svg",
+        "title": "Equipment Repair",
+        "text": "Police officers, now more than ever, need handheld illicit drug identification technology, PPE, and gear that is reliable and affordable.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "rental.svg",
+        "title": "Rental Equipment",
+        "text": "Keep contraband under control by using the highest-quality and reliable x-ray machines and screening solutions on the market.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "purchcont.svg",
+        "title": "Purchasing Solutions",
+        "text": "Proper countermeasure equipment and training can ensure an effective response to chemical warfare agents (CWA) and weapons of mass destruction (WMD) and is an essential part of preparedness.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "upfittin.svg",
+        "title": "Vehicle Upfitting1",
+        "text": "Keep your operation running smoothly by utilizing a wide variety of gas detection, safety products, and hi-vis clothing needed whether you drill, pump or transport.",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      }
+
+    ],
+  "total": "6"
+  }

@@ -1,0 +1,31 @@
+{
+    "event": [
+      {
+        "image": "ny.jpg",
+        "title": "Event 1",
+        "subtitle": "The types of equipment and products we distribute have grown; our commitment to quality, excellence, and customer service are stronger than ever.",
+        "description": "this is a text that explains stuff ya know?",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+
+      {
+        "image": "ny.jpg",
+        "title": "Event 2",
+        "subtitle": "High-quality equipment, supplies, training, and 24/7 support with knowledgeable staff who, in some instances, have been in the fire industry for years themselves.",
+        "description": "this is a text that explains stuff ya know?",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      },
+      {
+        "image": "ny.jpg",
+        "title": "Event 3",
+        "subtitle": "High-quality equipment, supplies, training, and 24/7 support with knowledgeable staff who, in some instances, have been in the fire industry for years themselves.",
+        "description": "this is a text that explains stuff ya know?",
+        "button_text": "Learn More",
+        "link": "/women.html"
+      }
+
+    ],
+  "total": "2"
+  }
